@@ -9,3 +9,4 @@ pymupdf
 pillow
 faiss-cpu
 numpy
+pdf2image

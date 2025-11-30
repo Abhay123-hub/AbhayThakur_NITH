@@ -1,0 +1,200 @@
+{ 
+"is_success": true, 
+"data": { 
+"pagewise_line_items": [ 
+{ 
+MARY JOSEPH--", 
+"page_no": "1", 
+“page_type”:”Bill Detail”, 
+"bill_items": [ 
+{ 
+"item_name": "Consultation Charge | DR PREETHI 
+"item_amount": 300.00, 
+"item_rate": 300.00, 
+"item_quantity": 1.00 
+}, 
+{ 
+PREMACHANDRAN--", 
+KUMAR--", 
+KUMAR--", 
+}, 
+{ 
+}, 
+{ 
+"item_name": "Consultation Charge | DR VIDYA 
+"item_amount": 200.00, 
+"item_rate": 200.00, 
+"item_quantity": 1.00 
+"item_name": "Doctors Visiting Fee | DR S SALIL 
+"item_amount": 250.00, 
+"item_rate": 250.00, 
+"item_quantity": 1.00 
+"item_name": "Doctors Visiting Fee | DR S SALIL 
+"item_amount": 1200.00, 
+"item_rate": 300.00, 
+"item_quantity": 4.00 
+{ 
+"item_name": "RR -2-Room Rent Step Down Icu", 
+"item_amount": 1000.00, 
+"item_rate": 1000.00, 
+"item_quantity": 1.00 
+}, 
+{ 
+}, 
+{ 
+}, 
+{ 
+A", 
+}, 
+{ 
+}, 
+{ 
+}, 
+{ 
+"item_name": "Room Rent Bystander Room", 
+"item_amount": 900.00, 
+"item_rate": 900.00, 
+"item_quantity": 1.00 
+"item_name": "SG201-1-Room Rent Ward A", 
+"item_amount": 250.00, 
+"item_rate": 250.00, 
+"item_quantity": 1.00 
+"item_name": "SG204-Room Rent Single Non Ac Room 
+"item_amount": 2700.00, 
+"item_rate": 900.00, 
+"item_quantity": 3.00 
+"item_name": "RR -2-Stepdown-Nursing Charge", 
+"item_amount": 1000.00, 
+"item_rate": 1000.00, 
+"item_quantity": 1.00 
+"item_name": "SG201-1-Nursing Charge", 
+"item_amount": 400.00, 
+"item_rate": 400.00, 
+"item_quantity": 1.00 
+"item_name": "SG204-Nursing Charge", 
+"item_amount": 1500.00, 
+"item_rate": 500.00, 
+"item_quantity": 3.00 
+}, 
+{ 
+}, 
+{ 
+}, 
+{ 
+}, 
+{ 
+}, 
+{ 
+}, 
+{ 
+}, 
+{ 
+"item_name": "BT", 
+"item_amount": 50.00, 
+"item_rate": 50.00, 
+"item_quantity": 1.00 
+"item_name": "Blood R/E", 
+"item_amount": 260.00, 
+"item_rate": 260.00, 
+"item_quantity": 1.00 
+"item_name": "CT", 
+"item_amount": 90.00, 
+"item_rate": 90.00, 
+"item_quantity": 1.00 
+"item_name": "Group RH", 
+"item_amount": 100.00, 
+"item_rate": 100.00, 
+"item_quantity": 1.00 
+"item_name": "HBsAg (CMIA)", 
+"item_amount": 150.00, 
+"item_rate": 150.00, 
+"item_quantity": 1.00 
+"item_name": "HCV (CIMA)", 
+"item_amount": 360.00, 
+"item_rate": 360.00, 
+"item_quantity": 1.00 
+"item_name": "HIV 1&2 (CMIA)", 
+"item_amount": 300.00, 
+"item_rate": 300.00, 
+"item_quantity": 1.00 
+}, 
+{ 
+}, 
+{ 
+}, 
+{ 
+}, 
+{ 
+}, 
+{ 
+}, 
+{ 
+}, 
+{ 
+"item_name": "Liver Function Test(LFT)", 
+"item_amount": 400.00, 
+"item_rate": 400.00, 
+"item_quantity": 1.00 
+"item_name": "PT INR", 
+"item_amount": 150.00, 
+"item_rate": 150.00, 
+"item_quantity": 1.00 
+"item_name": "Pus C/S", 
+"item_amount": 230.00, 
+"item_rate": 230.00, 
+"item_quantity": 1.00 
+"item_name": "RBS", 
+"item_amount": 30.00, 
+"item_rate": 30.00, 
+"item_quantity": 1.00 
+"item_name": "RFT", 
+"item_amount": 290.00, 
+"item_rate": 290.00, 
+"item_quantity": 1.00 
+"item_name": "TSH", 
+"item_amount": 190.00, 
+"item_rate": 190.00, 
+"item_quantity": 1.00 
+"item_name": "Chest PA", 
+"item_amount": 250.00, 
+"item_rate": 250.00, 
+"item_quantity": 1.00 
+}, 
+{ 
+}, 
+{ 
+}, 
+{ 
+}, 
+{ 
+}, 
+{ 
+} 
+] 
+} 
+], 
+"item_name": "USG Scan", 
+"item_amount": 1000.00, 
+"item_rate": 1000.00, 
+"item_quantity": 1.00 
+"item_name": "ANAES. CHARGE", 
+"item_amount": 1650.00, 
+"item_rate": 1650.00, 
+"item_quantity": 1.00 
+"item_name": "GAS CHARGES", 
+"item_amount": 660.00, 
+"item_rate": 660.00, 
+"item_quantity": 1.00 
+"item_name": "OT CHARGES", 
+"item_amount": 2640.00, 
+"item_rate": 2640.00, 
+"item_quantity": 1.00 
+"item_name": "SURGEON FEE", 
+"item_amount": 3300.00, 
+"item_rate": 3300.00, 
+"item_quantity": 1.00 
+"total_item_count": 30, 
+“token_usage”:{ 
+“total_tokens”:12000, 
+”input_tokens”:4000, 
+“output_tokens”:8000}}

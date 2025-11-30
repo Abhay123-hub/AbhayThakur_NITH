@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+requests
+pydantic
+python-dotenv
+openai
+pdfplumber
+pymupdf
+pillow
+faiss-cpu
+numpy
